@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppKeFuDemoSimple</string>
+    <string name="menu_settings">Settings</string>
+    <string name="chat_simple">咨询客服</string>
+    <string name="chat_wx_simple">咨询客服</string>
+    <string name="chat_simple_online">咨询客服(在线)</string>
+    <string name="chat_simple_offline">咨询客服(离线)</string>
+
+</resources>
